@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "BetterProgression:block/netherrack_diamond_ore"
+      "model": "betterprogression:block/netherrack_diamond_ore"
     }
   }
 }

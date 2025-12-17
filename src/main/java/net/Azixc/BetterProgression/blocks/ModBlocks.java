@@ -1,4 +1,4 @@
-package net.Azixc.BetterProgression.Block;
+package net.Azixc.BetterProgression.blocks;
 
 import net.Azixc.BetterProgression.BetterProgression;
 import net.Azixc.BetterProgression.items.ModItems;
@@ -20,8 +20,6 @@ public class ModBlocks {
     public static final DeferredBlock<Block> NETHER_DIAMOND_ORE = registerBlock("netherrack_diamond_ore",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(3f).requiresCorrectToolForDrops().sound(SoundType.NETHERRACK)));
-
-
 
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block){

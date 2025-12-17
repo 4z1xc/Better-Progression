@@ -1,7 +1,8 @@
 package net.Azixc.BetterProgression;
 
-import net.Azixc.BetterProgression.Block.ModBlocks;
+import net.Azixc.BetterProgression.blocks.ModBlocks;
 import net.Azixc.BetterProgression.Component.ModDataComponent;
+import net.Azixc.BetterProgression.items.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
 
@@ -42,8 +43,8 @@ public class BetterProgression {
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
 
         ModDataComponent.register(modEventBus);
+        ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
-
 
     }
 
@@ -53,7 +54,7 @@ public class BetterProgression {
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
-            event.accept(ModBlocks.NETHER_DIAMOND_ORE);
+            event.accept(ModBlocks.NETHER_DIAMOND_ORE.get().asItem().getDefaultInstance());
         }
     }
 
