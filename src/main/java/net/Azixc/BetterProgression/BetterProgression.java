@@ -1,7 +1,6 @@
 package net.Azixc.BetterProgression;
 
 import net.Azixc.BetterProgression.blocks.ModBlocks;
-import net.Azixc.BetterProgression.Component.ModDataComponent;
 import net.Azixc.BetterProgression.items.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
@@ -42,9 +41,8 @@ public class BetterProgression {
         // Register our mod's ModConfigSpec so that FML can create and load the config file for us
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
 
-        ModDataComponent.register(modEventBus);
-        ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ModItems.register(modEventBus);
 
     }
 
