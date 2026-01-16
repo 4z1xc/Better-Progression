@@ -1,6 +1,10 @@
 {
-  "replace": false,
-  "values": [
-    "betterprogression:netherrack_diamond_ore"
+  "replace": true,
+  "value": [
+    "minecraft:ancient_debris",
+    "minecraft:crying_obsidian",
+    "minecraft:netherite_block",
+    "minecraft:respawn_anchor"
+
   ]
 }

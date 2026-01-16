@@ -2,6 +2,6 @@
   "replace": true,
   "values": [
     "#minecraft:needs_diamond_tool",
-    "minecraft:diamond_ore"
+    "#betterprogression:needs_gold_tool"
   ]
 }

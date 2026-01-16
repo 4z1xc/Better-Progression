@@ -2,6 +2,7 @@ package net.Azixc.BetterProgression.worldgen;
 
 import net.Azixc.BetterProgression.BetterProgression;
 import net.minecraft.core.Holder;
+import net.minecraft.core.Registry;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.data.worldgen.BootstrapContext;
 import net.minecraft.data.worldgen.placement.PlacementUtils;
