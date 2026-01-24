@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#betterprogression:needs_gold_tool",
+    "#betterprogression:needs_copper_tool"
+  ]
+}

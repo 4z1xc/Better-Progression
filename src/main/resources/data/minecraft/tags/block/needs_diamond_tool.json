@@ -1,10 +1,9 @@
 {
-  "replace": true,
-  "value": [
-    "minecraft:ancient_debris",
+  "replace": false,
+  "values": [],
+  "remove": [
+    "minecraft:obsidian",
     "minecraft:crying_obsidian",
-    "minecraft:netherite_block",
     "minecraft:respawn_anchor"
-
   ]
 }

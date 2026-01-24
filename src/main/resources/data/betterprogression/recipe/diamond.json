@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "betterprogression:diamond_nugget"
+    }
+
+  },
+  "result": {
+    "id": "minecraft:diamond",
+    "count": 1
+  }
+}

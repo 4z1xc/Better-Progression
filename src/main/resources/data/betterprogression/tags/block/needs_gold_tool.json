@@ -1,11 +1,12 @@
 {
   "replace": false,
   "values": [
-    "#minecraft:needs_iron_tool",
     "minecraft:deepslate_diamond_ore",
     "minecraft:diamond_ore",
     "minecraft:diamond_block",
     "betterprogression:netherrack_diamond_ore",
-    "minecraft:obsidian"
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:respawn_anchor"
   ]
 }

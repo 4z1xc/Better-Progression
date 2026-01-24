@@ -1,6 +1,10 @@
 {
-  "replace": true,
+  "replace": false,
   "values": [
     "#minecraft:needs_diamond_tool"
+  ],
+  "remove": [
+    "#minecraft:needs_iron_tool",
+    "#minecraft:needs_stone_tool"
   ]
 }

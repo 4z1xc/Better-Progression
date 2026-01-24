@@ -1,5 +1,65 @@
 {
   "block.betterprogression.netherrack_diamond_ore": "Nether Diamond Ore",
 
-  "item.betterprogression.pebble": "pebble"
+  "item.betterprogression.pebble": "Pebble",
+
+  "item.betterprogression.diamond_nugget": "Diamond Nugget",
+
+  "item.betterprogression.copper_pickaxe": "Copper Pickaxe",
+  "item.betterprogression.copper_sword": "Copper Sword",
+  "item.betterprogression.copper_axe": "Copper Axe",
+  "item.betterprogression.copper_shovel": "Copper Shovel",
+  "item.betterprogression.copper_hoe": "Copper Hoe",
+
+  "item.betterprogression.copper_helmet": "Copper Helmet",
+  "item.betterprogression.copper_chestplate": "Copper Chestplate",
+  "item.betterprogression.copper_leggings": "Copper Leggings",
+  "item.betterprogression.copper_boots": "Copper Boots",
+
+
+
+  "item.betterprogression.golden_pickaxe": "Golden Pickaxe",
+  "item.betterprogression.golden_sword": "Golden Sword",
+  "item.betterprogression.golden_axe": "Golden Axe",
+  "item.betterprogression.golden_shovel": "Golden Shovel",
+  "item.betterprogression.golden_hoe": "Golden Hoe",
+
+  "item.betterprogression.golden_helmet": "Golden Helmet",
+  "item.betterprogression.golden_chestplate": "Golden Chestplate",
+  "item.betterprogression.golden_leggings": "Golden Leggings",
+  "item.betterprogression.golden_boots": "Golden Boots",
+
+
+
+  "item.betterprogression.diamond_pickaxe": "Diamond Pickaxe",
+  "item.betterprogression.diamond_sword": "Diamond Sword",
+  "item.betterprogression.diamond_axe": "Diamond Axe",
+  "item.betterprogression.diamond_shovel": "Diamond Shovel",
+  "item.betterprogression.diamond_hoe": "Diamond Hoe",
+
+  "item.betterprogression.diamond_helmet": "Diamond Helmet",
+  "item.betterprogression.diamond_chestplate": "Diamond Chestplate",
+  "item.betterprogression.diamond_leggings": "Diamond Leggings",
+  "item.betterprogression.diamond_boots": "Diamond Boots",
+
+
+
+  "item.betterprogression.netherite_pickaxe": "Netherite Pickaxe",
+  "item.betterprogression.netherite_sword": "Netherite Sword",
+  "item.betterprogression.netherite_axe": "Netherite Axe",
+  "item.betterprogression.netherite_shovel": "Netherite Shovel",
+  "item.betterprogression.netherite_hoe": "Netherite Hoe",
+
+  "item.betterprogression.netherite_helmet": "Netherite Helmet",
+  "item.betterprogression.netherite_chestplate": "Netherite Chestplate",
+  "item.betterprogression.netherite_leggings": "Netherite Leggings",
+  "item.betterprogression.netherite_boots": "Netherite Boots",
+
+
+
+  "item.betterprogression.stone_pickaxe": "Stone Pickaxe",
+  "item.betterprogression.stone_sword": "Stone Sword",
+  "item.betterprogression.stone_axe": "Stone Axe",
+  "item.betterprogression.stone_shovel": "Stone Shovel",
+  "item.betterprogression.stone_hoe": "Stone Hoe"
 }

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "betterprogression:copper_helmet",
+    "betterprogression:copper_chestplate",
+    "betterprogression:copper_leggings",
+    "betterprogression:copper_boots"
+  ]
+}
